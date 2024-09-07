@@ -150,8 +150,7 @@ Classification Report:
    macro avg       0.98      0.98      0.98      1980
 weighted avg       0.98      0.98      0.98      1980
 ```
-
-![Confusion Matrix](https://via.placeholder.com/600x450.png?text=Confusion+Matrix)
+![download](https://github.com/user-attachments/assets/fedab9fb-e819-4b86-9afd-df2e402bc414)
 
 The model achieves an impressive 98% accuracy, demonstrating its effectiveness in distinguishing between real and fake news.
 
